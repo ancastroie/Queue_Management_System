@@ -1,0 +1,52 @@
+ Current time:0 , waiting clients: ( 2 , 2 , 2 )( 4 , 3 , 5 )( 5 , 4 , 3 )( 3 , 5 , 3 )( 6 , 5 , 3 )( 1 , 6 , 2 )
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:1 , waiting clients: ( 2 , 2 , 2 )( 4 , 3 , 5 )( 5 , 4 , 3 )( 3 , 5 , 3 )( 6 , 5 , 3 )( 1 , 6 , 2 )
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:2 , waiting clients: ( 4 , 3 , 5 )( 5 , 4 , 3 )( 3 , 5 , 3 )( 6 , 5 , 3 )( 1 , 6 , 2 )
+Server: 0 has : ( 2 , 2 , 2 )
+Server: 1: empty
+Server: 2: empty
+ Current time:3 , waiting clients: ( 5 , 4 , 3 )( 3 , 5 , 3 )( 6 , 5 , 3 )( 1 , 6 , 2 )
+Server: 0 has : ( 2 , 2 , 1 )
+Server: 1 has : ( 4 , 3 , 5 )
+Server: 2: empty
+ Current time:4 , waiting clients: ( 3 , 5 , 3 )( 6 , 5 , 3 )( 1 , 6 , 2 )
+Server: 0 has : ( 5 , 4 , 3 )
+Server: 1 has : ( 4 , 3 , 4 )
+Server: 2: empty
+ Current time:5 , waiting clients: ( 1 , 6 , 2 )
+Server: 0 has : ( 5 , 4 , 2 )( 6 , 5 , 3 )
+Server: 1 has : ( 4 , 3 , 3 )
+Server: 2 has : ( 3 , 5 , 3 )
+ Current time:6 , waiting clients: 
+Server: 0 has : ( 5 , 4 , 1 )( 6 , 5 , 3 )
+Server: 1 has : ( 4 , 3 , 2 )( 1 , 6 , 2 )
+Server: 2 has : ( 3 , 5 , 2 )
+ Current time:7 , waiting clients: 
+Server: 0 has : ( 6 , 5 , 3 )
+Server: 1 has : ( 4 , 3 , 1 )( 1 , 6 , 2 )
+Server: 2 has : ( 3 , 5 , 1 )
+ Current time:8 , waiting clients: 
+Server: 0 has : ( 6 , 5 , 2 )
+Server: 1 has : ( 1 , 6 , 2 )
+Server: 2: empty
+ Current time:9 , waiting clients: 
+Server: 0 has : ( 6 , 5 , 1 )
+Server: 1 has : ( 1 , 6 , 1 )
+Server: 2: empty
+ Current time:10 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:11 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:12 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty

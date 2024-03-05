@@ -1,0 +1,189 @@
+nr of clients: 4
+nr of queues: 2
+simulation time: 60
+min arr time: 2   max arr time:30
+min serv time: 2  max serv time: 4
+ ( 2 , 5 , 2 )  ( 4 , 6 , 2 )  ( 1 , 8 , 2 )  ( 3 , 22 , 3 ) 
+ Current time:0 , waiting clients: ( 2 , 5 , 2 )( 4 , 6 , 2 )( 1 , 8 , 2 )( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:1 , waiting clients: ( 2 , 5 , 2 )( 4 , 6 , 2 )( 1 , 8 , 2 )( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:2 , waiting clients: ( 2 , 5 , 2 )( 4 , 6 , 2 )( 1 , 8 , 2 )( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:3 , waiting clients: ( 2 , 5 , 2 )( 4 , 6 , 2 )( 1 , 8 , 2 )( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:4 , waiting clients: ( 2 , 5 , 2 )( 4 , 6 , 2 )( 1 , 8 , 2 )( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:5 , waiting clients: ( 4 , 6 , 2 )( 1 , 8 , 2 )( 3 , 22 , 3 )
+Server: 0 has : ( 2 , 5 , 2 )
+Server: 1: empty
+ Current time:6 , waiting clients: ( 1 , 8 , 2 )( 3 , 22 , 3 )
+Server: 0 has : ( 2 , 5 , 1 )
+Server: 1 has : ( 4 , 6 , 2 )
+ Current time:7 , waiting clients: ( 1 , 8 , 2 )( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1 has : ( 4 , 6 , 1 )
+ Current time:8 , waiting clients: ( 3 , 22 , 3 )
+Server: 0 has : ( 1 , 8 , 2 )
+Server: 1: empty
+ Current time:9 , waiting clients: ( 3 , 22 , 3 )
+Server: 0 has : ( 1 , 8 , 1 )
+Server: 1: empty
+ Current time:10 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:11 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:12 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:13 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:14 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:15 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:16 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:17 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:18 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:19 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:20 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:21 , waiting clients: ( 3 , 22 , 3 )
+Server: 0: empty
+Server: 1: empty
+ Current time:22 , waiting clients: 
+Server: 0 has : ( 3 , 22 , 3 )
+Server: 1: empty
+ Current time:23 , waiting clients: 
+Server: 0 has : ( 3 , 22 , 2 )
+Server: 1: empty
+ Current time:24 , waiting clients: 
+Server: 0 has : ( 3 , 22 , 1 )
+Server: 1: empty
+ Current time:25 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:26 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:27 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:28 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:29 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:30 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:31 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:32 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:33 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:34 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:35 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:36 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:37 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:38 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:39 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:40 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:41 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:42 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:43 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:44 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:45 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:46 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:47 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:48 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:49 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:50 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:51 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:52 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:53 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:54 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:55 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:56 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:57 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:58 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:59 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+ Current time:60 , waiting clients: 
+Server: 0: empty
+Server: 1: empty

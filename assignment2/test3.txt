@@ -1,0 +1,98 @@
+nr of clients: 4
+nr of queues: 3
+simulation time: 22
+min arr time: 2   max arr time:10
+min serv time: 3  max serv time: 8
+ ( 4 , 5 , 4 )  ( 2 , 6 , 7 )  ( 1 , 7 , 6 )  ( 3 , 8 , 6 ) 
+ Current time:0 , waiting clients: ( 4 , 5 , 4 )( 2 , 6 , 7 )( 1 , 7 , 6 )( 3 , 8 , 6 )
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:1 , waiting clients: ( 4 , 5 , 4 )( 2 , 6 , 7 )( 1 , 7 , 6 )( 3 , 8 , 6 )
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:2 , waiting clients: ( 4 , 5 , 4 )( 2 , 6 , 7 )( 1 , 7 , 6 )( 3 , 8 , 6 )
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:3 , waiting clients: ( 4 , 5 , 4 )( 2 , 6 , 7 )( 1 , 7 , 6 )( 3 , 8 , 6 )
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:4 , waiting clients: ( 4 , 5 , 4 )( 2 , 6 , 7 )( 1 , 7 , 6 )( 3 , 8 , 6 )
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:5 , waiting clients: ( 2 , 6 , 7 )( 1 , 7 , 6 )( 3 , 8 , 6 )
+Server: 0 has : ( 4 , 5 , 4 )
+Server: 1: empty
+Server: 2: empty
+ Current time:6 , waiting clients: ( 1 , 7 , 6 )( 3 , 8 , 6 )
+Server: 0 has : ( 4 , 5 , 3 )
+Server: 1 has : ( 2 , 6 , 7 )
+Server: 2: empty
+ Current time:7 , waiting clients: ( 3 , 8 , 6 )
+Server: 0 has : ( 4 , 5 , 2 )
+Server: 1 has : ( 2 , 6 , 6 )
+Server: 2 has : ( 1 , 7 , 6 )
+ Current time:8 , waiting clients: 
+Server: 0 has : ( 4 , 5 , 1 )( 3 , 8 , 6 )
+Server: 1 has : ( 2 , 6 , 5 )
+Server: 2 has : ( 1 , 7 , 5 )
+ Current time:9 , waiting clients: 
+Server: 0 has : ( 3 , 8 , 6 )
+Server: 1 has : ( 2 , 6 , 4 )
+Server: 2 has : ( 1 , 7 , 4 )
+ Current time:10 , waiting clients: 
+Server: 0 has : ( 3 , 8 , 5 )
+Server: 1 has : ( 2 , 6 , 3 )
+Server: 2 has : ( 1 , 7 , 3 )
+ Current time:11 , waiting clients: 
+Server: 0 has : ( 3 , 8 , 4 )
+Server: 1 has : ( 2 , 6 , 2 )
+Server: 2 has : ( 1 , 7 , 2 )
+ Current time:12 , waiting clients: 
+Server: 0 has : ( 3 , 8 , 3 )
+Server: 1 has : ( 2 , 6 , 1 )
+Server: 2 has : ( 1 , 7 , 1 )
+ Current time:13 , waiting clients: 
+Server: 0 has : ( 3 , 8 , 2 )
+Server: 1: empty
+Server: 2: empty
+ Current time:14 , waiting clients: 
+Server: 0 has : ( 3 , 8 , 1 )
+Server: 1: empty
+Server: 2: empty
+ Current time:15 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:16 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:17 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:18 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:19 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:20 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:21 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
+ Current time:22 , waiting clients: 
+Server: 0: empty
+Server: 1: empty
+Server: 2: empty
